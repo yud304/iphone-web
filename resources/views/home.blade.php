@@ -9,98 +9,52 @@
         </a>
     </div>
 
-    <div class="text-center mb-8 px-4">
-        <h1 class="text-3xl sm:text-4xl font-bold mb-4">Selamat Datang di Bakul-iPhone.com</h1>
-        <p class="text-base sm:text-lg text-gray-700 mb-8">Mau Jual Beli iPhone? Ya Bakul iPhone</p>
+    <div class="text-center mb-8">
+        <h1 class="text-4xl font-bold mb-4">Selamat Datang di Bakul-iPhone.com</h1>
+        <p class="text-lg text-gray-700 mb-8">Mau Jual Beli iPhone? Ya Bakul iPhone</p>
 
+        <!-- Shop Now Button -->
         <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%20Jualiphone%2C%20saya%20Mau%20Jual%20iPhone%2015%20ProMax%2C%20Bisa%20dibantu%20%3F"
-            class="px-4 sm:px-6 py-2 sm:py-3 text-base sm:text-lg font-semibold rounded-md shadow-md bg-green-600 text-white hover:bg-green-700 transition mr-2 mb-2 inline-block"
+            class="px-6 py-3 text-lg font-semibold rounded-md shadow-md bg-green-600 text-white hover:bg-green-700 transition mr-4"
             target="_blank" rel="noopener noreferrer">
             Beli Sekarang!
         </a>
 
         <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%20Jualiphone%2C%20saya%20Mau%20Jual%20iPhone%2C%20Bisa%20dibantu%20%3F"
-            class="px-4 sm:px-6 py-2 sm:py-3 text-base sm:text-lg font-semibold rounded-md shadow-md bg-red-600 text-white hover:bg-red-700 transition inline-block"
+            class="px-6 py-3 text-lg font-semibold rounded-md shadow-md bg-red-600 text-white hover:bg-red-700 transition"
             target="_blank" rel="noopener noreferrer">
             Jual Sekarang!
         </a>
     </div>
 
-    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 max-w-6xl mx-auto px-4">
-        <!-- iPhone 16 lineup -->
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2016%20ProMax%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/Apple iPhone 16 Pro Max.jpeg') }}" alt="iPhone 16 ProMax"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 16 ProMax</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2016%20Pro%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 16 Pro.jpeg') }}" alt="iPhone 16 Pro"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 16 Pro</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2016%20Plus%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 16 Plus.jpeg') }}" alt="iPhone 16 Plus"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 16 Plus</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2016%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 16.jpeg') }}" alt="iPhone 16"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 16</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2016e%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 16e.jpeg') }}" alt="iPhone 16e"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 16e</span>
-        </a>
-
-        <!-- iPhone 15 lineup -->
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2015%20ProMax%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 15 Pro Max.jpeg') }}" alt="iPhone 15 ProMax"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 15 ProMax</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2015%20Pro%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 15 Pro.jpeg') }}" alt="iPhone 15 Pro"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 15 Pro</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2015%20Plus%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 15 Plus.jpeg') }}" alt="iPhone 15 Plus"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 15 Plus</span>
-        </a>
-
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%2C%20saya%20mau%20beli%20iPhone%2015%2C%20bisa%20dibantu%3F"
-            target="_blank" rel="noopener noreferrer"
-            class="flex flex-col items-center p-4 border rounded-lg shadow-sm bg-white hover:shadow-md transition">
-            <img src="{{ asset('storage/images/iPhones/iPhone 15.jpeg') }}" alt="iPhone 15"
-                class="w-32 sm:w-40 h-32 sm:h-40 object-contain mb-2" />
-            <span class="text-gray-600 text-sm sm:text-base">iPhone 15</span>
-        </a>
+    <!-- Search Bar -->
+    <div class="sticky top-0 z-50 bg-white shadow-md">
+        <div class="max-w-4xl mx-auto px-4 py-4">
+            <input id="searchInput" type="text" placeholder="Cari iPhone..."
+                class="w-full px-4 py-3 border rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                onkeyup="filterProducts()">
+        </div>
     </div>
+
+
+
+    <div id="productGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 max-w-6xl mx-auto">
+        @include('partials.product-cards')
+    </div>
+
+    <script>
+        function filterProducts() {
+            const input = document.getElementById('searchInput');
+            const filter = input.value.toLowerCase();
+            const grid = document.getElementById('productGrid');
+            const items = grid.getElementsByTagName('a');
+
+            Array.from(items).forEach(item => {
+                const name = item.textContent.toLowerCase();
+                item.style.display = name.includes(filter) ? '' : 'none';
+            });
+        }
+    </script>
 
     <!-- Floating TikTok Button with Bounce Animation -->
     <a href="https://www.tiktok.com/@iphonesecondjkt.official?_t=ZS-8y9YY2H7YE3&_r=1"
@@ -115,7 +69,6 @@
         target="_blank" rel="noopener noreferrer" aria-label="Chat via WhatsApp">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="w-8 h-8">
     </a>
-
 
     <!-- Cara Jual iPhone Section -->
     <section class="bg-white py-16">
@@ -150,7 +103,6 @@
                 <h3 class="text-xl font-semibold mb-2">Terima Uangmu Saat Team Inspeksi Tiba</h3>
                 <p class="text-gray-500 mb-4">iPhone Anda Pasti Terjual Dan Terima Uang Anda Dengan Instant!</p>
             </div>
-
         </div>
 
         <section style="padding: 50px 20px; text-align: center; background: #fff;">
@@ -203,6 +155,5 @@
                 dalam bertransaksi.
             </p>
         </section>
-
     </section>
 @endsection
