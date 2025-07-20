@@ -27,6 +27,43 @@
                     onchange="filterProducts()"> <span class="ml-2">iPhone 15 Plus</span></label>
             <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 15"
                     onchange="filterProducts()"> <span class="ml-2">iPhone 15</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 14 ProMax"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 14 ProMax</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 14 Pro"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 14 Pro</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 14 Plus"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 14 Plus</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 14"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 14</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 13 ProMax"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 13 ProMax</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 13 Pro"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 13 Pro</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 13"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 13</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 13 Mini"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 13 Mini</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 12 ProMax"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 12 ProMax</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 12 Pro"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 12 Pro</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 12"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 12</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 12 Mini"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 12 Mini</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 11 ProMax"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 11 ProMax</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 11 Pro"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 11 Pro</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone 11"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone 11</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone Xs Max"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone Xs max</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone Xs"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone Xs</span></label>
+            <label class="flex items-center mb-1"><input type="checkbox" class="typeCheckbox" value="iPhone X"
+                    onchange="filterProducts()"> <span class="ml-2">iPhone X</span></label>
+
         </div>
         <div class="px-2 pb-2">
             <button onclick="resetFilter()"
