@@ -2,7 +2,7 @@
     "name": "iphone-web",
     "homepage": "https://yud304.github.io/iphone-web/",
     "$schema": "https://json.schemastore.org/package.json",
-    "private": true,
+    "private": false,
     "type": "module",
     "scripts": {
         "build": "vite build",
