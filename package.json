@@ -1,10 +1,14 @@
 {
+    "name": "iphone-web",
+    "homepage": "https://yud304.github.io/iphone-web/",
     "$schema": "https://json.schemastore.org/package.json",
     "private": true,
     "type": "module",
     "scripts": {
         "build": "vite build",
-        "dev": "vite"
+        "dev": "vite",
+        "predeploy": "npm run build",
+        "deploy": "gh pages -d dist"
     },
     "devDependencies": {
         "@tailwindcss/vite": "^4.0.0",
@@ -15,6 +19,7 @@
         "vite": "^6.2.4"
     },
     "dependencies": {
-        "bootstrap": "^5.3.0"
+        "bootstrap": "^5.3.0",
+        "gh-pages": "^6.3.0"
     }
 }

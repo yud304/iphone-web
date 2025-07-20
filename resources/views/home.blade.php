@@ -15,7 +15,7 @@
 
         <!-- Shop Now Button -->
         <div class="flex flex-col sm:flex-row justify-center gap-3">
-            <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%20Jualiphone%2C%20saya%20Mau%20Jual%20iPhone%2015%20ProMax%2C%20Bisa%20dibantu%20%3F"
+            <a href="http://wa.me/6285777010436?text=Halo%20Admin%20Jual%20iPhone,%20Saya%20Tertarik%20Membeli%20iPhone%20Disini"
                 class="flex-1 sm:flex-initial text-center px-7 py-3 text-base sm:text-lg font-bold tracking-wide rounded-lg shadow-lg bg-gradient-to-r from-green-500 to-green-700 text-white transition-all duration-200 mr-0 sm:mr-4
                 hover:from-green-600 hover:to-green-800 hover:scale-105 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-green-400 flex items-center justify-center gap-2"
                 target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,7 @@
                 Beli Sekarang!
             </a>
 
-            <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%20Jualiphone%2C%20saya%20Mau%20Jual%20iPhone%2C%20Bisa%20dibantu%20%3F"
+            <a href="http://wa.me/6285777010436?text=Halo%20Admin%20Jual%20iPhone,%20Saya%20Ingin%20Menjual%20iPhone%20Saya"
                 class="flex-1 sm:flex-initial text-center px-7 py-3 text-base sm:text-lg font-bold tracking-wide rounded-lg shadow-lg bg-gradient-to-r from-red-500 to-red-700 text-white transition-all duration-200
                 hover:from-red-600 hover:to-red-800 hover:scale-105 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-red-400 flex items-center justify-center gap-2"
                 target="_blank" rel="noopener noreferrer">
@@ -48,7 +48,7 @@
         </a>
 
         <!-- Floating WhatsApp Button with Bounce Animation -->
-        <a href="https://api.whatsapp.com/send?phone=6285777010436&text=Hi%20admin%20Jualiphone%2C%20saya%20Mau%20Jual%20iPhone%2C%20Bisa%20dibantu%20%3F"
+        <a href="http://wa.me/6285777010436?text=Halo%20Admin%20Jual%20iPhone,%20Saya%20Ingin%20Dibantu"
             class="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white rounded-full p-4 shadow-lg transition animate-bounce"
             target="_blank" rel="noopener noreferrer" aria-label="Chat via WhatsApp">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="w-8 h-8">

@@ -40,4 +40,5 @@ export default defineConfig({
     manifest: true,
     outDir: 'public/build',
   },
+  base: "/iphone-web"
 });
