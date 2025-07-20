@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>iPhone Shop</title>
+    <title>JualiPhone</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body class="bg-gray-50 font-sans">
     <!-- Navbar -->
     <nav id="navbar" class="bg-white shadow-sm sticky top-0 z-50 transition-colors duration-300">
-        <div class="container mx-auto px-4 py-3 flex justify-center transition-colors duration-300">
+        <div class="container mx-auto px-4 py-2 flex justify-center transition-colors duration-300">
             <!-- Brand -->
             <a id="brand" href="{{ url('/') }}" class="text-2xl font-extrabold text-orange-600 transition-colors duration-300">
-                Bakul-iPhone.com
+                JualiPhone.com
             </a>
         </div>
     </nav>
@@ -23,8 +23,8 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-white text-center py-4 w-full shadow-inner">
-        <p>&copy; {{ date('Y') }} Bakul-iPhone. All rights reserved.</p>
+    <footer class="bg-orange-600 text-white text-center py-4 w-full shadow-inner">
+        <p>&copy; {{ date('Y') }} JualiPhone. All rights reserved.</p>
     </footer>
 
     <!-- Scroll Script -->
@@ -35,13 +35,13 @@
 
             window.addEventListener('scroll', function () {
                 if (window.scrollY > 10) {
-                    navbar.classList.remove('bg-white');
-                    navbar.classList.add('bg-black');
+                    navbar.classList.remove('bg-white-600');
+                    navbar.classList.add('bg-orange-600');
                     brand.classList.remove('text-orange-600');
                     brand.classList.add('text-white');
                 } else {
-                    navbar.classList.remove('bg-black');
-                    navbar.classList.add('bg-white');
+                    navbar.classList.remove('bg-orange-600');
+                    navbar.classList.add('bg-white-600');
                     brand.classList.remove('text-white');
                     brand.classList.add('text-orange-600');
                 }
